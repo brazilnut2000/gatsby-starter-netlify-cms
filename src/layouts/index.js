@@ -21,7 +21,7 @@ const Navbar = () => (
           About
         </Link>
         <Link className="navbar-item" to="/products">
-          Products
+          Contact
         </Link>
       </div>
       <div className="navbar-end">
