@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 path: /making-sense
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Making the switch to shaving with a straight razor
+date: 2017-12-19T15:04:10.000Z
+description: Shaving has become a ridiculous arms-race to see how many (expensive) blades the manufacturers can cram on to a single device. Escape the madness and recapture a lost art form by shaving like a man, with a straight razor, the way our forbears would want us to.
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
