@@ -3,7 +3,7 @@ templateKey: 'product-page'
 path: /contact
 title: Get in touch
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: Tired of developers who don't understand your business?
 description: >-
   Hire me for your next project. 
 intro:
