@@ -30,7 +30,7 @@ const Navbar = () => (
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Jon Crowell's Blog" />
+    <Helmet title="Home | Jon Crowell" />
     <Navbar />
     <div>{children()}</div>
   </div>
